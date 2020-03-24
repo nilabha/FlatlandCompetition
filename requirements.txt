@@ -15,7 +15,7 @@ backcall==0.1.0
 -e git+https://github.com/openai/baselines.git@665b888eeb688396894455a0d94febc4f712e0c0#egg=baselines
 Benchmarker==4.0.1
 black==19.10b0
-bleach==3.1.0
+bleach==3.1.2
 blinker==1.4
 box2d-py==2.3.8
 bumpversion==0.5.3
