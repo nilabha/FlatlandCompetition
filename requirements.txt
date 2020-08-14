@@ -1,4 +1,4 @@
-a2c-ppo-acktr==0.0.1
+-e git://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail.git
 absl-py==0.8.1
 alabaster==0.7.12
 appdirs==1.4.3
