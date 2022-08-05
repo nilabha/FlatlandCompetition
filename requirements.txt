@@ -132,7 +132,7 @@ prompt-toolkit==2.0.9
 protobuf==3.10.0
 ptyprocess==0.6.0
 py==1.8.0
-pyarrow==0.13.0
+pyarrow==0.15.1
 pybullet==2.5.6
 pycairo==1.18.1
 pycodestyle==2.5.0
